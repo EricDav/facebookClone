@@ -1,0 +1,150 @@
+body{
+	margin: 0px;
+	border: 0px;
+}
+.head{
+	width: 100%;
+	height: 90px;
+	background-color: blue;
+	position: relative;
+}
+.input{
+	position: absolute;
+	height: 90px;
+	width: 600px;
+	margin-top: 0px;
+	margin-left:500px;
+	/*background-color: red*/;
+}
+#input1{
+	float: left;
+	width: 170px;
+	height: 60px;
+	/*background-color: yellow;*/
+	margin: 15px 20px 0px 140px;
+}
+#input2{
+	float: left;
+	width: 170px;
+	height: 60px;
+	/*background-color: green;*/
+	margin: 15px 0px; 
+}
+#input3{
+	float:left;
+	width: 50px;
+	height: 25px;
+	margin-left: 10px;
+	margin-top: 30px;
+	/*background-color: purple;*/
+}
+.label{
+	color: white;
+	margin-bottom: 15px;
+	font-size: 14px;
+}
+.button{
+	width: 50px;
+	height: 20px;
+	background-color: blue;
+	font-size: 11px;
+}
+
+.facebook{
+	position: absolute;
+	margin-left: 40px;
+	margin-bottom: 20px;
+}
+.face{
+	color: white;
+	font-size: 45px;
+
+}
+.main{
+	margin-top: 40px;
+	margin-left: 40px;
+	width: 100%;
+	height: 500px;
+	
+}
+.main1{
+	width: 46%;
+	height: 500px;
+	
+	float:left;
+}
+.main2{
+	margin-top: 0px;
+	width: 42%;
+	height: 500px;
+	
+	float: left;
+	margin-left: 80px;
+}
+.span{
+	font-weight: bold;
+	font-size: 25px;
+	color: blue;
+}
+
+.create{
+	font-size: 45px;
+	font-weight: bold;
+	margin-top: 0px;
+}
+.free{
+	margin-top: 5px;
+	font-size: 25px;
+
+}
+
+.register{
+	width: 95%;
+	height: 270px;
+	
+}
+.reg1{
+	margin-top: 30px;
+	width: 100%;
+	height: 65px;
+	
+}
+.reg2{
+	width: 100%;
+	height: 65px;
+	
+	margin-top: 10px;
+}
+.reg3{
+	width: 100%;
+	height: 65px;
+	
+	margin-top: 10px;
+}
+.in2{
+	width: 95%;
+	height: 70%;
+}
+.in1{
+	width: 45.5%;
+	height: 70%;
+	float: left;
+}
+.in{
+	margin-left: 2%;
+}
+.birth1{
+	width: 40px;
+	height: 25px;
+}
+
+.bat{
+	width: 200px;
+	height: 40px;
+	background-color: green;
+	font-size: 20px;
+	font-weight: bold;
+	color: white;
+	border-color: green;
+	margin-top: 15px;
+}

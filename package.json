@@ -1,0 +1,19 @@
+{
+  "name": "facebookclone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EricDav/facebookClone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EricDav/facebookClone/issues"
+  },
+  "homepage": "https://github.com/EricDav/facebookClone#readme"
+}
